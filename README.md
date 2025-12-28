@@ -23,3 +23,13 @@ REP NAME--STKansys
 --1️⃣Coverage_for_SAT_OBSERVER(PHASE1)
 --2️⃣ Satellite Communication Network Analysis(PHASE2)
 
+NEXT PROJECTS ON LINE 
+--1️⃣ GDOP vs Altitude Trade Study
+--2️⃣ Satellite Count vs PDOP Curve
+--3️⃣ Inclination Impact on Global Coverage
+--4️⃣ Walker Delta vs Walker Star
+--5️⃣ Ground Track Repeatability vs PNT Stability
+--6️⃣ Urban Canyon Simulation (Simplified)
+--7️⃣ Single-Plane Failure Scenario
+--8️⃣ Timing Error → Position Error Map
+
