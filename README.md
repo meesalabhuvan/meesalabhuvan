@@ -41,9 +41,9 @@ NEXT PROJECTS ON LINE
 
 --5️⃣ Ground Track Repeatability vs PNT Stability
 
---6️⃣ Urban Canyon Simulation (Simplified)
+--6️⃣ Urban Canyon Simulation 
 
---7️⃣ Single-Plane Failure Scenario
+--7️⃣ Single Plane Failure Scenario
 
---8️⃣ Timing Error → Position Error Map
+--8️⃣ Timing Error to Position Error Map
 
